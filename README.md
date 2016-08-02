@@ -1,2 +1,2 @@
-# blog-csdn
-my csdn blog respository
+# blog
+my blog respository
